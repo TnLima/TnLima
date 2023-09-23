@@ -16,5 +16,3 @@ Estudante de desenvolvimento web.
 - HTML
 - Tailwind/CSS
 - React
-
-- https://github.com/images/mona-whisper.gif
